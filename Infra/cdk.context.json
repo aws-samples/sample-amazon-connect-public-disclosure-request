@@ -1,0 +1,5 @@
+{
+  "InstanceId": "<Amazon_Connect_Instance_Id>",
+  "ConnectStorageBucket": "<S3_Bucket_Name_Connect>",
+  "BedrockModelId": "anthropic.claude-3-5-sonnet-20241022-v2:0"
+}
